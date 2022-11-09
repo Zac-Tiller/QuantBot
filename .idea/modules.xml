@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Sports Trading/Sports Trading Projects/MC Football Score Predictor/.idea/MC Football Score Predictor.iml" filepath="$PROJECT_DIR$/../../Sports Trading/Sports Trading Projects/MC Football Score Predictor/.idea/MC Football Score Predictor.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../Part IIB Project/.idea/Part IIB Project.iml" filepath="$PROJECT_DIR$/../../Part IIB Project/.idea/Part IIB Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/QuantBot.iml" filepath="$PROJECT_DIR$/.idea/QuantBot.iml" />
     </modules>
